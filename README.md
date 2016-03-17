@@ -1,4 +1,4 @@
 # hello-github
 just the beginning of github
 
-There are changed we made.
+There are changes we made.
